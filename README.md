@@ -3,7 +3,7 @@ A management information system for cooperatives in recording the disbursement o
 
 ## ER Diagram
 
-![ERD Graph](public/ER%20Diagram.jpg)
+![ERD Graph](.design/ER%20Diagram.jpg)
 
 ## Default Login
 - Anggota 
